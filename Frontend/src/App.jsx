@@ -9,7 +9,7 @@ function App() {
     <>
       <Routes>
         <Route exact path='/*' element={<UserRoutes />} />
-        <Route exact path='/admin/' element={<AdminRoutes />} />
+        <Route exact path='/admin/*' element={<AdminRoutes />} />
       </Routes>
     </>
   )
