@@ -16,7 +16,7 @@ function Layout({ children }) {
             <div id='navBar1' className={toggle ? 'sidebar' : 'close'}>
                 <div class="logo-name">
                     <div class="logo-image">
-                        <img src="/images/adminLogo/logo.png" alt="" />
+                        <img src="/src/assets/images/adminLogo/logo.png" alt="" />
                     </div>
                     <span class="logo_name">CodingLab</span>
                 </div>
@@ -60,7 +60,7 @@ function Layout({ children }) {
                         <i className="uil uil-search" />
                         <input type="text" placeholder="Search here..." />
                     </div> */}
-                    <img src="/images/adminLogo/profile.jpg" alt="" />
+                    <img src="/src/assets/images/adminLogo/profile.jpg" alt="" />
                 </div>
                 {children}
             </section>
