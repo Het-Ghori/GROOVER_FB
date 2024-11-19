@@ -1,10 +1,11 @@
 import React from 'react';
+import Layout from '../admin/component/Layout';
 
 function AdminRoutes(props) {
     return (
-        <div>
+        <Layout>
             
-        </div>
+        </Layout>
     );
 }
 
