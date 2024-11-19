@@ -380,15 +380,15 @@ body {
 }
 
 .one {
-  background-image: url(../images/main-slider/bg_3.jpg);
+  /* background-image: url(../images/main-slider/bg_3.jpg); */
 }
 
 .two {
-  background-image: url(../images/main-slider/bg_1.jpg);
+  /* background-image: url(../images/main-slider/bg_1.jpg); */
 }
 
 .three {
-  background-image: url(../images/main-slider/bg_4.jpg);
+  /* background-image: url(../images/main-slider/bg_4.jpg); */
 }
 
 .owl-item .slide-animation * {
